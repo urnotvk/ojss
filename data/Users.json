@@ -1,0 +1,22 @@
+{
+	"users":[
+		{
+			"id": 1
+			"username": "user1",
+			"password": "*123Abc*",
+			"type": "Recruiter"
+		},
+		{
+			"id": 2,
+			"username": "user2",
+			"password": "!321cBA!",
+			"type": "Recruiter"
+		},
+		{
+			"id": 3,
+			"username": "user3",
+			"password": "	%231CaB%",
+			"type": "Job Seeker"
+		}
+	]
+}

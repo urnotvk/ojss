@@ -1,0 +1,27 @@
+#right{
+    width:47%;
+    background-color: #cacaca;
+    height:250px;
+    float:left;
+    margin-left:5px;
+    border-radius: 5px;
+
+}
+#left{
+    width:47%;
+    height:300px;
+    float:left;
+    margin-right:5px
+}
+#form_1{
+    display:block;
+}
+#form_2{
+    display:none;
+}
+.showout{
+    display:block;
+}
+.hidden{
+    display:none;
+}
